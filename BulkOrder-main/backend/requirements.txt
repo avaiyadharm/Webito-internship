@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pandas
+rapidfuzz
+playwright>=1.60.0
+pydantic
+python-multipart
+aiofiles
+reportlab

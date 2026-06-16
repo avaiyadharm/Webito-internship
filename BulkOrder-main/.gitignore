@@ -1,0 +1,19 @@
+# Environments
+venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+*.db
+backend/data/*.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Next.js / Node are handled by frontend/.gitignore
